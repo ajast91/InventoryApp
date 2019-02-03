@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="editor_activity_title">Add Product</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for gender information in the editor [CHAR LIMIT=30] -->
+    <string name="category_quantity">Quantity</string>
+
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_product_supplier">Supplier</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_name">Product Name</string>
+
+    <!-- Text hint for breed field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_price">Product Price</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_quantity">Quantity</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_supplier">Product Supplier</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_supplier_phone">Product Supplier Phone</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <string name="action_delete_all_entries">Delete all</string>
+
+    <string name="empty_view_title_text"> Do you like this view?</string>
+
+    <string name="empty_view_subtitle_text">Get started by adding a book</string>
+
+    <string name="editor_activity_title_new_book"> Add a new Book</string>
+
+    <string name="editor_activity_title_edit_book"> Edit Book</string>
+
+    <string name="editor_insert_book_failed"> Error with editing book</string>
+
+    <string name="editor_insert_book_successful"> Book saved</string>
+
+    <string name="editor_update_book_failed"> Error with updating book</string>
+
+    <string name="editor_update_book_successful"> Book updated</string>
+
+    <string name="editor_fill_gaps"> Fill all the gaps. No empty rubrics allowed. </string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="delete_dialog_msg">Delete this book?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="editor_delete_book_successful">Book deleted</string>
+
+    <string name="editor_delete_book_failed">Error with deleting book</string>
+    <string name="detailed_edit">Edit</string>
+    <string name="activity_main_font_family">sans-serif-medium</string>
+    <string name="list_item_tools_name">Name:</string>
+    <string name="list_item_tools_price">Price:$</string>
+    <string name="list_item_tools_quantity">Quantity:</string>
+    <string name="list_item_button_text">sale</string>
+    <string name="detailed_view_quantity_text">0</string>
+    <string name="detailed_view_call_supplier_button_text">Call supplier</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="activity_editor_linear_layout">0dp</dimen>
+    <dimen name="activity_main_do_you_like_this_view_padding">16dp</dimen>
+    <dimen name="activity_main_lower_text_padding">8dp</dimen>
+    <dimen name="list_item_button_margin">45dp</dimen>
+    <dimen name="detailed_view_main_linear_layout_padding">14dp</dimen>
+    <dimen name="detailed_view_quantity_margin">15dp</dimen>
+    <dimen name="detailed_view_quantity_text_size">20sp</dimen>
+    <dimen name="detailed_view_call_supplier_button_layout_height">45dp</dimen>
+    <dimen name="detailed_view_call_supplier_button_margin">25dp</dimen>
+
+</resources>
